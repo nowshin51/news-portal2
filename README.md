@@ -14,10 +14,11 @@ The objective of this project is to offer a platform where users can access a wi
 7. Blog Section: A dedicated space for blogging and more personalized content.
    
 ## Technologies Used
-JavaScript: Main programming language used for functionality.
-HTML: Structure and markup language for the web application.
-CSS: Stylesheets for enhancing the visual appearance.
-Bootstrap: Front-end framework for design and responsiveness.
+1. JavaScript: Main programming language used for functionality.
+2. HTML: Structure and markup language for the web application.
+3. CSS: Stylesheets for enhancing the visual appearance.
+4. Bootstrap: Front-end framework for design and responsiveness.
+   
 Live Project Link
 The live version of this project is hosted on Netlify and can be accessed at Daily Updates Live.
 
