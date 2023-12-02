@@ -19,12 +19,13 @@ The objective of this project is to offer a platform where users can access a wi
 3. CSS: Stylesheets for enhancing the visual appearance.
 4. Bootstrap: Front-end framework for design and responsiveness.
    
-Live Project Link
-The live version of this project is hosted on Netlify and can be accessed at Daily Updates Live.
+# Live Project Link
+The live version of this project is hosted on Netlify and can be accessed at `https://astonishing-lollipop-4b0db9.netlify.app/`.
 
-Usage
+## Usage
 Visit the live project link provided to access the Daily Updates platform.
 Explore the different sections including breaking news, regular news, international news, sports, entertainment, arts, culture, and the blog section.
 Interact with the content to stay informed about various news categories.
-Project Structure
+
+## Project Structure
 The project includes organized directories for JavaScript scripts, HTML files, CSS stylesheets, and any necessary image or document files.
