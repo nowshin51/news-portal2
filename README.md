@@ -1,29 +1,28 @@
-# news-portal-assignemnt
-Please create yoru private repo 
-## [https://classroom.github.com/a/PZ8KfL5q](https://classroom.github.com/a/PZ8KfL5q)
+# News Portal Website
+This project, "News Portal" is a web-based application developed using JavaScript, HTML, CSS, and Bootstrap. It provides users with breaking news, regular news, international news, sports updates, entertainment highlights, arts, culture, and features a dedicated blog section.
 
-### Private Repo Link: [https://classroom.github.com/a/PZ8KfL5q](https://classroom.github.com/a/PZ8KfL5q)
+## Project Overview
+The objective of this project is to offer a platform where users can access a wide range of news categories, staying updated with the latest information in various fields.
 
+## Features
+1. Breaking News: Displays urgent and significant news updates.
+Regular News: Provides daily news updates from various categories.
+International News: Offers news from a global perspective.
+Sports Updates: Covers sports-related news and events.
+Entertainment: Highlights from the world of entertainment.
+Arts and Culture: Features news related to arts, culture, and related fields.
+Blog Section: A dedicated space for blogging and more personalized content.
+Technologies Used
+JavaScript: Main programming language used for functionality.
+HTML: Structure and markup language for the web application.
+CSS: Stylesheets for enhancing the visual appearance.
+Bootstrap: Front-end framework for design and responsiveness.
+Live Project Link
+The live version of this project is hosted on Netlify and can be accessed at Daily Updates Live.
 
-----------------
-
-## API Links
-
-## All News Category
-url: https://openapi.programming-hero.com/api/news/categories
-
-### All news in a Category
-URL Format: https://openapi.programming-hero.com/api/news/category/{category_id} 
-
-Example: https://openapi.programming-hero.com/api/news/category/01
-
-
-### News detail url:
-URL Format:  https://openapi.programming-hero.com/api/news/{news_id} 
-
-
-Example: https://openapi.programming-hero.com/api/news/0282e0e58a5c404fbd15261f11c2ab6a
-
-### Missing Data: 
-Here total view and author name is null
-https://openapi.programming-hero.com/api/news/2e78e5e0310c2e9adbb6efb1a263e745 
+Usage
+Visit the live project link provided to access the Daily Updates platform.
+Explore the different sections including breaking news, regular news, international news, sports, entertainment, arts, culture, and the blog section.
+Interact with the content to stay informed about various news categories.
+Project Structure
+The project includes organized directories for JavaScript scripts, HTML files, CSS stylesheets, and any necessary image or document files.
