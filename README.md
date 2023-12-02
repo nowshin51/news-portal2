@@ -8,7 +8,7 @@ The objective of this project is to offer a platform where users can access a wi
 1. Breaking News: Displays urgent and significant news updates.
 2. Regular News: Provides daily news updates from various categories.
 3. International News: Offers news from a global perspective.
-Sports Updates: Covers sports-related news and events.
+4. Sports Updates: Covers sports-related news and events.
 Entertainment: Highlights from the world of entertainment.
 Arts and Culture: Features news related to arts, culture, and related fields.
 Blog Section: A dedicated space for blogging and more personalized content.
