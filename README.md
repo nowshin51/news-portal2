@@ -6,7 +6,7 @@ The objective of this project is to offer a platform where users can access a wi
 
 ## Features
 1. Breaking News: Displays urgent and significant news updates.
-Regular News: Provides daily news updates from various categories.
+2. Regular News: Provides daily news updates from various categories.
 International News: Offers news from a global perspective.
 Sports Updates: Covers sports-related news and events.
 Entertainment: Highlights from the world of entertainment.
