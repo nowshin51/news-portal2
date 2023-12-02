@@ -10,7 +10,7 @@ The objective of this project is to offer a platform where users can access a wi
 3. International News: Offers news from a global perspective.
 4. Sports Updates: Covers sports-related news and events.
 5. Entertainment: Highlights from the world of entertainment.
-Arts and Culture: Features news related to arts, culture, and related fields.
+6. Arts and Culture: Features news related to arts, culture, and related fields.
 Blog Section: A dedicated space for blogging and more personalized content.
 Technologies Used
 JavaScript: Main programming language used for functionality.
