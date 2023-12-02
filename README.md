@@ -12,7 +12,8 @@ The objective of this project is to offer a platform where users can access a wi
 5. Entertainment: Highlights from the world of entertainment.
 6. Arts and Culture: Features news related to arts, culture, and related fields.
 7. Blog Section: A dedicated space for blogging and more personalized content.
-Technologies Used
+   
+## Technologies Used
 JavaScript: Main programming language used for functionality.
 HTML: Structure and markup language for the web application.
 CSS: Stylesheets for enhancing the visual appearance.
